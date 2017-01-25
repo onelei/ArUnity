@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_HelloAR.CSharp", "Sample_HelloAR.CSharp.csproj", "{25EFBCEB-803C-0F02-93E2-9752B03FDFD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_HelloAR.CSharp.Editor", "Sample_HelloAR.CSharp.Editor.csproj", "{093AE7C8-5C20-2A22-F887-8AF1F6F6E441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25EFBCEB-803C-0F02-93E2-9752B03FDFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EFBCEB-803C-0F02-93E2-9752B03FDFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EFBCEB-803C-0F02-93E2-9752B03FDFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EFBCEB-803C-0F02-93E2-9752B03FDFD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093AE7C8-5C20-2A22-F887-8AF1F6F6E441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093AE7C8-5C20-2A22-F887-8AF1F6F6E441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093AE7C8-5C20-2A22-F887-8AF1F6F6E441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093AE7C8-5C20-2A22-F887-8AF1F6F6E441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
